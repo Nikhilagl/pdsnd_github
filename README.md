@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+16 june 2020
 
 ### Project Title
-Replace the Project Title
+nikhil_project
 
 ### Description
-Describe what your project is about and what it does
+we will be working on a project file bikeshare.py
 
 ### Files used
-Include the files used
+washington.csv
+newyork.csv
+chicago.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
